@@ -4,7 +4,8 @@
 - This MySQL-based relational database is designed to manage patient appointments, doctor schedules, and clinic visit records. It supports scheduling, storing medical history, and basic administrative tracking.
 
   Database Design Highlights
-Entities:
+  
+                Entities
 
 Patients
 
@@ -17,7 +18,7 @@ Specializations
 Medical_Records
 
 
-Relationships:
+                Relationships
 
 Each Doctor has one or more Specializations (M-M).
 
