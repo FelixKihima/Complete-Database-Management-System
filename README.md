@@ -7,10 +7,15 @@
 Entities:
 
 Patients
+
 Doctors
+
 Appointments
+
 Specializations
+
 Medical_Records
+
 
 Relationships:
 
